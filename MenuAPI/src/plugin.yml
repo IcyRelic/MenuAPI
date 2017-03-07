@@ -1,0 +1,6 @@
+name: MenuAPI
+version: 1.0
+description: Easily create inventory menus. For developer use.
+author: IcyRelic
+main: com.icyrelic.menu.MenuAPI
+website: www.icyrelic.com
